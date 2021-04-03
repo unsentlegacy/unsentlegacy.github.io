@@ -1,0 +1,97 @@
+		body {
+		background: #333;
+		font: 12pt courier;
+		color: #eee;
+		}
+	a:link, a:active, a:visited {
+		color: #fff;
+		}
+	#credits {
+		display: block;
+		width: 100%; 
+		padding: 10px 0;
+		text-align: center;
+		clear: both;
+		}
+	h1 {
+		text-align: center;
+		font: 48pt Impact;
+		letter-spacing: 5px;
+		color: #fff;
+		margin: 10px auto;
+		}
+	h2 {
+		text-align: center;
+		font: 24px Impact;
+		letter-spacing: 5px;
+		color: #fff;
+		margin: 30px auto;
+		clear: both;
+		}
+	.main {
+		text-align: justify;
+		line-height: 150%;
+		width: 70%;
+		margin: 10px auto 30px;
+		clear: both;
+		}
+	#links {
+		text-align: center;
+		font: 14pt courier;
+		display: block;
+		margin: 10px auto;
+		}
+	#links a {
+		text-decoration: none;
+		color: #fff;
+		}
+	.note {
+		font: 9pt courier;
+		text-align: center;
+		color: #fff;
+		}
+	h3 {
+		text-align: center;
+		font: 14pt arial;
+		margin: 10px 0;
+		}
+	#nav {
+		position: fixed;
+		top: 0;
+		left: 0;
+		text-align: right;
+		font: 18pt arial;
+		padding: 100px 15px;
+		width: 12%;
+		}
+	#nav a {
+		color: #fff;
+		text-decoration: none;
+		display: block;
+		padding: 10px 0;
+		margin: 0;
+		}
+	.red {
+		color: #f99;
+		}
+	img.red {
+		border: 3px solid #f99;
+		}
+	.green {
+		color: #aea;
+		}
+	img.green {
+		border: 3px solid #aea;
+		}
+	.blue {
+		color: #aad;
+		}
+	img.blue {
+		border: 3px solid #aad;
+		}
+	.yellow {
+		color: #fe9;
+		}
+	img.yellow {
+		border: 3px solid #fe9;
+		}
